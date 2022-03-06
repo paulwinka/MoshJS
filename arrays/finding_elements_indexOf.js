@@ -4,7 +4,7 @@ console.log(numbers.indexOf(1));
 // returns -1 if not present, otherwise the index of the first appearance on the array.
 
 // USING INDEXOF, THERE IS NOT A WAY TO USE IT DETECT ALL INSTANCE, BUT IT IS POSSIBLE
-// TO START THE SEARCH LATER, LIKE THIS ONE THAT BEGINS AT SEARCH INDEX 2, THE RESULT
+// TO START THE SEARCH LATER, LIKE THIS ONE THAT BEGINS AT SEARCH INDEX 1, THE RESULT
 // EXPECTED IS 2.
 
 const numeros = [1, 2, 1, 4, 5, 6];
